@@ -1,2 +1,2 @@
-sanic
-uvicorn
+sanic==20.12.7
+setuptools
